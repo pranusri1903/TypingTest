@@ -1,4 +1,4 @@
-##Typing Speed Test Project
+## Typing Speed Test Project
 ## Overview
 The Simple Typing Speed Test Project is a Java-based application designed to measure and improve an individual's typing speed and accuracy. The project provides a user-friendly interface where users can take a typing test, and the application calculates their words per minute (wpm) and accuracy.
 
